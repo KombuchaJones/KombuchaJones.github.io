@@ -1,0 +1,33 @@
+
+nav {
+    height: 50px;
+    background-color:grey;
+  }
+  
+  /* target the class of inline-block below */
+  .inline-block {
+    display: inline-block;
+    background-color: white;
+    padding: 16px;
+  }
+  
+  /* target the class of .left below */
+  .left {
+    height: 500px;
+    float: left;
+    background-color: lightBlue;
+    width: 29%;
+    text-align: center;
+  }
+  .right {
+    height: 500px;
+    float: left;
+    background-color: blue;
+    width: 70%;
+    text-align: center;
+}
+  
+  img {
+    width: 300px;
+    height: 300px;
+  }
